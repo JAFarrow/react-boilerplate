@@ -1,5 +1,5 @@
-# New Project
-
+# react-boilerplate
+My very own barebones react launchpad for future projects.
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
 ## Available Scripts
